@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "1️⃣",
+      "LiDice3",
+      "LiDice2",
+      "LiDice1",
+      "LiDice4"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "BILLINGS": "📚",
+  "CLOUD-CONCEPT": {
+    "iconName": "LiCloudy",
+    "iconColor": "#f2eded"
+  },
+  "COMPUTE": {
+    "iconName": "LiComputer",
+    "iconColor": "#c9782c"
+  },
+  "DATABASES": {
+    "iconName": "LiDatabase",
+    "iconColor": "#c75c5c"
+  },
+  "MONITORING & MANAGEMENT": {
+    "iconName": "LiMonitorCog",
+    "iconColor": "#cfbfbf"
+  },
+  "NETWORKING": {
+    "iconName": "LiNetwork",
+    "iconColor": "#af91ba"
+  },
+  "SECURE & IDENTITY": {
+    "iconName": "LiUserLock",
+    "iconColor": "#486ddb"
+  },
+  "STORAGE": {
+    "iconName": "LiStore",
+    "iconColor": "#cc822e"
+  },
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main": {
+    "iconName": "LiType",
+    "iconColor": "#ed1212"
+  },
+  "AWS-Certified-Cloud-Practitioner-Exam-Questions.-main": "🦅",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set11.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set2.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set3.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set4.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set1.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set10.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set5.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set6.md": "LiCheck",
+  "AWS-Certified-Cloud-Practitioner-CCP-practice-question-set-main/question-set7.md": "LiCheck",
+  "ALL TOPICS/ALL TOPICS.md": "🦅",
+  "ALL TOPICS/Master Topics.md": "🎄",
+  "ALL TOPICS/Analytics.md": "1️⃣",
+  "ALL TOPICS/Application Integration.md": "2️⃣",
+  "ALL TOPICS/AWS Cost Management.md": "3️⃣",
+  "ALL TOPICS/Compute.md": "4️⃣",
+  "ALL TOPICS/Containers.md": "5️⃣",
+  "ALL TOPICS/Database.md": "6️⃣",
+  "ALL TOPICS/Developer Tools.md": "7️⃣",
+  "ALL TOPICS/Front-End Web and Mobile.md": "8️⃣",
+  "ALL TOPICS/Machine Learning.md": "9️⃣",
+  "ALL TOPICS/Management and Governance.md": "🔟",
+  "ALL TOPICS/Storage.md": "LiDice6",
+  "ALL TOPICS/Serverless.md": "LiDice5",
+  "ALL TOPICS/Security, Identity, and Compliance.md": "LiDice4",
+  "ALL TOPICS/Media Services.md": "LiDice1",
+  "ALL TOPICS/Migration and Transfer.md": "LiDice2",
+  "ALL TOPICS/Networking and Content Delivery.md": "LiDice3"
+}
