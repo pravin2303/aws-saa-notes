@@ -1,4 +1,3 @@
-# ☁️ AWS SAA – Topics (Linked)
 
 ## 📚 Topics
 

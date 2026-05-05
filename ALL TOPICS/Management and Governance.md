@@ -32,8 +32,6 @@
     
 - [[AWS Service Catalog]]
     
-- [[AWS Systems Manager]]
-    
 - [[AWS Trusted Advisor]]
     
 - [[AWS Well-Architected Tool]]

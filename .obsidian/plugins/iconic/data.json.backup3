@@ -24,12 +24,34 @@
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "ALL TOPICS/ALL TOPICS.md": {
+      "icon": "🔝"
+    },
+    "ALL TOPICS/Media Services.md": {
+      "icon": "lucide-tally-1"
+    },
+    "ALL TOPICS/Migration and Transfer.md": {
+      "icon": "lucide-tally-1"
+    },
+    "ALL TOPICS/Networking and Content Delivery.md": {
+      "icon": "lucide-tally-1"
+    },
+    "ALL TOPICS/Security, Identity, and Compliance.md": {
+      "icon": "lucide-tally-1"
+    },
+    "ALL TOPICS/Serverless.md": {
+      "icon": "lucide-tally-1"
+    },
+    "ALL TOPICS/Storage.md": {
+      "icon": "lucide-tally-1"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

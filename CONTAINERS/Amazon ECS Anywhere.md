@@ -115,7 +115,7 @@ Amazon ECS Anywhere allows you to run **ECS-managed containers on external infra
 ## 🔄 Integration with Other Services
 
 - [[Amazon ECR]] → container images
-- [[AWS Systems Manager]] → manage instances
+- [[AWS Systems Manager 1]] → manage instances
 - [[AWS IAM]] → access control
 
 ---
