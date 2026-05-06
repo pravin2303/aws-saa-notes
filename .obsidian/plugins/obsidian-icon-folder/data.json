@@ -39,6 +39,10 @@
     "iconName": "LiCloudy",
     "iconColor": "#f2eded"
   },
+  "COMPUTE": {
+    "iconName": "LiComputer",
+    "iconColor": "#c9782c"
+  },
   "DATABASES": {
     "iconName": "LiDatabase",
     "iconColor": "#c75c5c"
